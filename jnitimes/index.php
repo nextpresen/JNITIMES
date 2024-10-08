@@ -9,11 +9,10 @@
 <main id="main">
 	<div id="main-in">
 		<div id="main-visual">
-			<h2>Main visual</h2>
+			<h2>TOP記事</h2>
 		</div>
-
 		<section class="inner">
-
+			ブログサイト
 		</section>
 	</div><!-- /#main-in -->
 </main>

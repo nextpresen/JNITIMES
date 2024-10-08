@@ -27,7 +27,7 @@
 			</div>
 		</div>
 
-		<aside id="sidebar">
+		<aside id="navigation-menu">
 			<nav id="global-nav">
 				<ul>
 					<li><a href="#">最新記事一覧</a></li>
