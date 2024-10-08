@@ -10,3 +10,6 @@ wp_enqueue_style(
      // バージョンの指定
     '1.0'
 );
+
+// 管理画面のサムネイルの表示
+add_theme_support('post-thumbnails');

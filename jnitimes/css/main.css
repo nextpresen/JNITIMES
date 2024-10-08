@@ -10,6 +10,8 @@
 	box-sizing: border-box;
 }
 
+
+
 html,body {
 	height: 100%;
 }
@@ -29,6 +31,9 @@ body {
 #main-in {
 	background: white;
     margin: 0 auto;
+}
+.imgArea img{
+	margin: 0 auto;
 }
 #main p {
 	margin-bottom: 1em;
